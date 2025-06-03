@@ -1,2 +1,2 @@
 # eprfr2384
-personal
+a french epg xml list taken from roku
